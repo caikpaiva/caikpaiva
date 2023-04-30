@@ -1,5 +1,5 @@
 <h1 align="center">Caik Paiva</h1>
-<p align="justify"> Analista de Suporte Pleno, em transição de carreira para CLOUD/DEVOPS. Tenho mais de 4 anos de experiência trabalhando com diferentes tecnologias em diversos contextos. Acredito que meu desenvolvimento ajuda no desenvolvimento de outras pessoas. Adoro aprender novos conceitos, vivenciar novos desafios e passar todo o conhecimento para impactar a vida de outras pessoas. </p>
+<p align="justify"> Sou formado em Sistemas de Informação com amplo conhecimento na área de Suporte, onde atuo a mais de 4 anos, trabalhando com diferentes tecnologias em diversos contextos. Atualmente estou em transição de carreira para DEVOPS. Acredito que meu desenvolvimento ajuda no desenvolvimento de outras pessoas. Adoro aprender novos conceitos, vivenciar novos desafios e passar todo o meu conhecimento para impactar a vida de outras pessoas. </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caikpaiva&line_height=20&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caikpaiva&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
